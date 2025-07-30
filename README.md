@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="stylesheet" href="Portafolio-O-M1/Portafolio O&M/Estilo.css">
+    <link rel="stylesheet" href="Portafolio O&M/Estilo.css">
     
 </head>
 <body>
@@ -18,7 +18,7 @@
                                 <li> <a href="Portafolio-O-M1/Portafolio O&M/index.html">Inicio</a></li>
                                 <li> <a href="SobreMi.html">Sobre Mi</a></li>
                                 <li> <a href="Servicios.html">Servicios </a> </li>
-                                <li> <a href="Portafolio.html">Portafolio</a> </li>
+                                <li> <a href="Portafolio O&M/Portafolio.html">Portafolio</a> </li>
                                 <li> <a href="Contacto.html">Contactos</a> </li>
                             </ul>
                         </Nav>
