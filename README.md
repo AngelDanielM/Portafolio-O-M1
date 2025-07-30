@@ -15,7 +15,7 @@
                     <h1>A/M                    </h1>
                         <Nav id="Nav" class="">
                             <ul id="links">
-                                <li> <a href="Nuevo portafolio.html">Inicio</a></li>
+                                <li> <a href="Portafolio-O-M1/Portafolio O&M/index.html">Inicio</a></li>
                                 <li> <a href="SobreMi.html">Sobre Mi</a></li>
                                 <li> <a href="Servicios.html">Servicios </a> </li>
                                 <li> <a href="Portafolio.html">Portafolio</a> </li>
