@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="stylesheet" href="Estilo.css">
+    <link rel="stylesheet" href="Portafolio-O-M1/Portafolio O&M/Estilo.css">
     
 </head>
 <body>
